@@ -1,0 +1,4 @@
+Processed area - Chattanooga, Tennessee, US
+Link to dataset - https://s3.amazonaws.com/metro-extracts.mapzen.com/chattanooga_tennessee.osm.bz2
+
+I choosed this area because I wanted to know a bit more about other places in the world and because it was not too big.

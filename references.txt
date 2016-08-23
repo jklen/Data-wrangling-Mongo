@@ -1,0 +1,18 @@
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://mapzen.com/data/metro-extracts
+http://www.tutorialspoint.com/python/index.htm
+http://cartographic.info/usa/street/show.php?p=tennessee&t=Chattanooga
+http://stackoverflow.com/questions/31082323/pymongo-and-output-of-aggregate
+https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+http://regexone.com/
+http://nhd.usgs.gov/gnis.html
+http://regex.learncodethehardway.org/book/
+http://www.city-data.com/zipmaps/Chattanooga-Tennessee.html
+https://github.com/alwc/udacity-data-science/tree/master/p2
+http://thenextweb.com/insider/2014/02/28/openstreetmap/
+http://blog.flickr.net/en/2008/08/12/around-the-world-and-back-again/
+http://l3d.cs.colorado.edu/~yunwen/papers/ICSE03.pdf
+http://abs.sagepub.com/content/57/5/548.abstract
+http://www.ub.tuwien.ac.at/dipl/2014/AC11999640.pdf
+OpenStreetMap in GIScience, Experiences, Research and Applications, J. J. Arsanjani, Springer 2015
